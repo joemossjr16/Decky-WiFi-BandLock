@@ -1,0 +1,7 @@
+{
+  "name": "decky-wifi-bandlock",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "WiFi BandLock Decky Plugin Frontend"
+}

@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.log
+
+# Node & Build artifacts
+node_modules/
+.npm/
+
+# OS / Temporary
+.DS_Store
+*.swp
+*.swo
+*~

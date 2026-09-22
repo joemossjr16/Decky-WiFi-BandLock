@@ -1,0 +1,14 @@
+{
+  "name": "WiFi BandLock",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "license": "MIT",
+  "api_version": 2,
+  "flags": ["root"],
+  "publish": {
+    "tags": ["wifi", "network", "utility", "bands"],
+    "description": "Scan and force Wi-Fi connections to specific frequency bands (2.4GHz, 5GHz, 6GHz) and Access Point BSSIDs.",
+    "image": ""
+  }
+}
+
