@@ -1,7 +1,10 @@
 {
-  "name": "decky-wifi-bandlock",
+  "name": "WiFi-BandLock",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "WiFi BandLock Decky Plugin Frontend"
+  "description": "WiFi BandLock Decky Plugin Frontend",
+  "scripts": {
+    "build": "echo 'Pre-built dist/index.js present'"
+  }
 }
